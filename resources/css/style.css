@@ -2,7 +2,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* border: 1px solid black; */
     margin: 20px auto;
     margin-bottom: 50px;
     max-width: 900px;
@@ -19,7 +18,6 @@ h1 {
 
 header ul {
     width: 330px;
-    /* border: 1px solid black; */
     display: flex;
     justify-content: space-between;
 }
@@ -75,7 +73,6 @@ main {
 }
 
 .right img{
-    /* width: 330px; */
     height: 350px;
     border-radius: 15px;
     flex-basis: 330px;
@@ -85,7 +82,6 @@ main {
 
 .projects {
     margin: 20px auto;
-    /* border: 1px solid black; */
     margin-bottom: 30px;
     box-sizing: border-box;
     padding: 10px;
@@ -114,7 +110,6 @@ main {
     display: flex;
     justify-content: space-between;
     width: 400px;
-    /* border: 1px solid black; */
 }
 
 footer {
